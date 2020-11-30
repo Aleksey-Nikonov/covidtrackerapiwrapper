@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("CovidSharp")]
-[assembly: AssemblyDescription("An API wrapper for the Coronavirus tracking API")]
-[assembly: AssemblyConfiguration("Release")]
+[assembly: AssemblyTitle("Coronavirus tracker API wrapper example")]
+[assembly: AssemblyDescription("")]
+[assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Abdirahiim Yassin")]
-[assembly: AssemblyProduct("CovidSharp")]
+[assembly: AssemblyProduct("Coronavirus tracker API wrapper example")]
 [assembly: AssemblyCopyright("2020 © Abdirahiim Yassin")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("edeb82c5-233a-49c1-86af-1eb48fa1732f")]
+[assembly: Guid("c3e9f4a5-0d0f-4967-a869-9232e7de172a")]
 
 // Version information for an assembly consists of the following four values:
 //
